@@ -5,6 +5,6 @@
 - Dev Web
 - Graduando de Ciência da Computação
 - Estudando Front-End | Back-End | JavaScript | Typescript | React.js
-- Email: pedro.hf0802@gmail.com
+- Email: fagundeshpedro@gmail.com
 - Linkedin: https://www.linkedin.com/in/pedro-henrique-fagundes/
 
